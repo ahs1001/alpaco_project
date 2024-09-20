@@ -17,3 +17,8 @@ Darknet, PIL, OpenCV, ultralytics
 
 ## 생성 결과
 ![alt text](결과.jpg)
+
+## 수행역할
+- 프로젝트 초기 프로젝트에 부합하는 데이터 수집
+- 라벨들간 데이터 불균형이 심하여, opencv를 통해 이미지를 합성하여 데이터 증강
+- YOLOv4, YOLOv8의 n, m, x 모델을 학습하여 성능비교

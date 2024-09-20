@@ -22,3 +22,7 @@ BeautifulSoup, request, pandas, scikit-learn, matplotlib, Tensorflow
 
 ## 생성 결과
 ![alt text](결과.jpg)
+
+## 수행역할
+- 크롤링으로 받은 데이터를 EDA를 통해 전처리 수행
+- 관련된 문헌들을 참고하여 모델 구축, 학습 및 성능개선
